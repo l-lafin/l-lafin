@@ -8,7 +8,7 @@
 ### Hey there, I'm l-lafin 👋
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
-I'm a passionate ***full-stack web and cloud developer*** from Brazil, working remotely with teams from different countries while taking care of ***my two sloppy cats***. ***Cloud and DevOps enthusiast***, starting to contribute step by step to the open-source community after learned so much from them. I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
+I'm a passionate ***full-stack web and cloud developer*** from Brazil, working remotely with teams from different countries while taking care of ***my two sloppy cats***. ***Cloud and DevOps enthusiast***, starting to contribute step by step to the open-source community after learned so much from them and working a couple of years with inner-source. I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
 
 <br/>
 <br/>
