@@ -17,7 +17,7 @@ I'm a passionate ***full-stack web and cloud developer*** from Brazil, working r
 
 <p align="center">
   <a href="https://github.com/l-lafin/l-lafin/">
-    <img alt="l-lafin LinkedIN" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="l-lafin LinkedIN" src="https://github.com/l-lafin"/>
   </a>
   <a href="https://www.linkedin.com/in/llafin/">
     <img alt="l-lafin LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -25,7 +25,7 @@ I'm a passionate ***full-stack web and cloud developer*** from Brazil, working r
   <a href="https://open.spotify.com/user/leandro.lafin?si=6906d312bac149a7">
     <img alt="l-lafin Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
-  <a href="https://open.spotify.com/user/leandro.lafin?si=6906d312bac149a7">
+  <a>
     <img alt="l-lafin Playstation" src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
   </a>
 </p>
@@ -69,3 +69,4 @@ I'm a passionate ***full-stack web and cloud developer*** from Brazil, working r
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-lafin&theme=outrun&layout=compact" alt="l-lafin" />
 </a>
+
