@@ -22,12 +22,6 @@ I'm a passionate ***full-stack web and cloud developer*** from Brazil, working r
   <a href="https://www.linkedin.com/in/llafin/">
     <img alt="l-lafin LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://open.spotify.com/user/leandro.lafin?si=6906d312bac149a7">
-    <img alt="l-lafin Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-  <a>
-    <img alt="l-lafin Playstation" src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
-  </a>
 </p>
 
 <br/>
