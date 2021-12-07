@@ -61,6 +61,6 @@ I'm a passionate ***full-stack web and cloud developer*** from Brazil, working r
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=l-lafin&count_private=true&theme=outrun&show_icons=true&hide=stars" alt="l-lafin" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-lafin&count_private=true&theme=outrun&layout=compact" alt="l-lafin" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-lafin&count_private=true&langs_count=10&theme=outrun&layout=compact" alt="l-lafin" />
 </a>
 
